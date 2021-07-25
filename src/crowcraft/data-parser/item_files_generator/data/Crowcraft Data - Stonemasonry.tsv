@@ -1,6 +1,30 @@
 IS IMPLEMENTED	IS CODE UP TO DATE	ITEM NAME	REQUIRED PROF	RARITIES	MATERIALS	QTY PER CRAFT	ITEM EFFECT QLTY	CUSTOMIZABLE	CRAFTING NAME	ITEM TYPE
+		Architecture Components								
+No	No	Architectural Arches	Stonemason	white	2x Bricks, 2x Frame, 1x Carpentry Nails	1	No	No		
+No	No	Architectural Wall	Stonemason	white	2x Bricks, 2x Frame, 1x Carpentry Nails, 2x Wall Insulation	1	No	No		
+No	No	Foundation Segment	Stonemason	white	4x Bricks, 2x Gravel	1	No	No		
+No	No	Frame	Stonemason	white	20x Wood, 2x Carpentry Nails, 20x Wood, 20x Wood, 20x Wood	1	No	No		
+No	No	Roof Segment	Stonemason	white	4x Carpentry Nails, 4x Wood Shingles	1	No	No		
+No	No	Wall Insulation	Stonemason	white	10x Hide, 4x Mulch	1	No	No		
+No	No	Wall Section	Stonemason	white	8x Bricks, 2x Frame	1	No	No		
+										
+		Geomancy Components								
+No	No	Gravel	Stonemason	white	20x Stone	1	No	No		
+No	No	Mulch	Stonemason	white	20x Wood	1	No	No		
+No	No	Ore Concentrate	Stonemason	white	20x Ore	1	No	No		
+No	No	Soil	Stonemason	white	8x Gravel, 8x Mulch, 8x Ore Concentrate	1	No	No		
+										
 		Stonemasonry Components								
+No	No	Bricks	Stonemason	white	25x Stone, 25x Stone, 25x Stone, 5x Ethereal Dust	1	No	No		
+No	No	Carpentry Nails	Stonemason	white	20x Ore, 20x Ore, 20x Ore, 5x Ethereal Dust	1	No	No		
 No	No	Diamond Cutting Blade	Stonemason	white	9x Ore, 3x Cutting Grit	1	No	No		
 No	No	Chaos Ember Cutting Blade	Stonemason	white	9x Ore, 3x Cutting Grit, 1x Chaos Ember	1	No	No	Diamond Cutting Blade	
+No	No	Floor Tiles	Stonemason	white	25x Wood, 25x Wood, 25x Wood, 5x Ethereal Dust	1	No	No		
 No	No	Grinding Wheel	Stonemason	white	8x Stone, 8x Stone, 8x Stone	1	No	No		
 No	No	Polishing Paste	Stonemason	white	16x Powdered Stone, 3x Water Flask	1	No	No		
+No	No	Quality Assurance Control Kit	Stonemason	white	16x Powdered Stone, 3x Water Flask	1	Yes	No		
+No	No	Wood Shingles	Stonemason	white	25x Wood, 25x Wood, 25x Wood, 5x Ethereal Dust	1	No	No		
+No	No	Wood Stakes	Stonemason	white	25x Wood, 25x Wood, 25x Wood, 5x Ethereal Dust	1	No	No		
+										
+		Buildings								
+No	No	Cottage	Stonemason	white	2x Chaos Ember, 8x Architectural Wall, 8x Foundation Segment, 8x Floor Tiles, 4x Carpentry Nails, 8x Roof Segment, 8x Architectural Arches	1	No	No		
